@@ -47,6 +47,9 @@ Given an array that was initially sorted in ascending order and then rotated at 
 
 
 ---
+##  Author
+
+- Rohit
 
 
 
