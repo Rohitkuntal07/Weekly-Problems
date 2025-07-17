@@ -27,7 +27,8 @@ nums = [1, 1, 1]<br>
 k = 2 
 
 **Output:**
-2 
+2
+
 ---
 
 ##  Approaches
