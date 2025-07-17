@@ -25,8 +25,8 @@ Given an array that was initially sorted in ascending order and then rotated at 
 ##  Example
 
 ### Input
-5
-5 7 10 3 4
+-5
+-5 7 10 3 4
 
 ### Output
 3
