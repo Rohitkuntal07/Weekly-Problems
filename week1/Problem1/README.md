@@ -1,4 +1,4 @@
-# 🔍 Find Minimum in Rotated Sorted Array
+#  Find Minimum in Rotated Sorted Array
 
 ##  Problem Statement
 
