@@ -39,7 +39,7 @@ A single integer: the **minimum total painting cost** such that no two adjacent 
 It's an efficient O(n * k) solution using dynamic programming with two-minimum tracking to avoid adjacent color repetition.
 
 ## Author
-Rohit[@Rohitkuntal07]
+Rohit[@Rohitkuntal07](https://github.com/Rohitkuntal07)
 
 
 
