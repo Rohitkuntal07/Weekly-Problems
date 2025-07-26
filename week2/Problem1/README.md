@@ -35,8 +35,8 @@ A single integer — the length of the longest common subsequence among the thre
 
 ## Sample Input
 
-epidemiologist 
-refrigeration 
+epidemiologist <br>
+refrigeration <br>
 supercalifragilisticexpialodocious
 
 
