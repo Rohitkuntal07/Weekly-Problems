@@ -76,4 +76,4 @@ This problem is solved using **Dynamic Programming with a 3D table**:
 
 ## Author
 
-Rohit(@Rohitkuntal07)[https://github.com/Rohitkuntal07]
+Rohit [@Rohitkuntal07](https://github.com/Rohitkuntal07)
