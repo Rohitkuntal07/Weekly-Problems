@@ -41,6 +41,6 @@ HashMap Approach (O(n) time, O(n) space): <br>
 Create a clone of each node and store a mapping from original to cloned nodes. Then, set the next and random pointers using the map. This method is simple and easy to implement. <br>
 
 ## Author
-Rohit(@Rohitkuntal07)[https://github.com/Rohitkuntal07]
+Rohit[@Rohitkuntal07](https://github.com/Rohitkuntal07)
 
 
