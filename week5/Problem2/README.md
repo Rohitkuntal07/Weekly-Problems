@@ -63,5 +63,3 @@ This approach ensures an efficient traversal and avoids unnecessary processing.
 
 ## Author 
 - Rohit [@Rohitkuntal07](https://github.com/Rohitkuntal07)
-int sc = 2;
-char newColor = 'G';
