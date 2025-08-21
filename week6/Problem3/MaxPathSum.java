@@ -24,3 +24,4 @@ public class MaxPathSumBinaryTree {
         maxSum = Math.max(maxSum, current);
         return node.val + Math.max(left, right);
     }
+}
